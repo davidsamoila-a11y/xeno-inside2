@@ -1,0 +1,10 @@
+[2026-02-11 16:46:27.827] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-11 16:46:27.827] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-11 16:46:27.827] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-11_16-46-27.log
+[2026-02-11 16:46:27.828] [Xeno] [debug] Client Checker thread: 0xeef297d2a0
+[2026-02-11 16:46:27.828] [Xeno] [debug] Xeno Caching thread: 0xeef297d290
+[2026-02-11 16:46:27.828] [Xeno] [debug] WebSockets Cleaner thread: 0xeef297d280
+[2026-02-11 16:46:27.829] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-11 16:46:27.829] [Xeno] [debug] Xeno Server thread: 0xeef297d270
+[2026-02-11 16:46:27.830] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-11 16:46:27.830] [Server] [info] Visit http://localhost:3110 to view any additional information

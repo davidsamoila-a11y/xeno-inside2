@@ -1,0 +1,290 @@
+[2026-02-07 16:01:34.036] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-07 16:01:34.037] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-07 16:01:34.037] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-07_16-01-34.log
+[2026-02-07 16:01:34.039] [Xeno] [debug] Client Checker thread: 0xbc8d77d290
+[2026-02-07 16:01:34.039] [Xeno] [debug] Xeno Caching thread: 0xbc8d77d280
+[2026-02-07 16:01:34.040] [Xeno] [debug] WebSockets Cleaner thread: 0xbc8d77d270
+[2026-02-07 16:01:34.040] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-07 16:01:34.050] [Xeno] [debug] Xeno Server thread: 0xbc8d77d260
+[2026-02-07 16:01:34.051] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-07 16:01:34.051] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-07 16:02:15.995] [Xeno] [info] Creating new RBXClient: 17432
+[2026-02-07 16:02:15.997] [RBXClient] [info] [17432]: Initializing...
+[2026-02-07 16:02:15.998] [RBXClient] [info] [17432]: Version: version-80c7b8e578f241ff
+[2026-02-07 16:02:15.998] [Xeno] [debug] Created RBXClient instance @0x2a68b608b70
+[2026-02-07 16:02:15.998] [Xeno] [info] Successfully created RBXClient: 17432
+[2026-02-07 16:02:16.000] [RBXClient] [trace] [17432]: Attempting to retrieve RBXClient data...
+[2026-02-07 16:02:16.055] [RBXClient] [trace] [17432]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 16:02:16.056] [RBXClient] [error] [17432]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 16:02:16.057] [RBXClient] [debug] [17432]: Fetching DataModel...
+[2026-02-07 16:02:16.098] [RBXClient] [debug] [17432]: 	String: 0x24fb14f4550
+[2026-02-07 16:02:16.098] [RBXClient] [debug] [17432]: 	RenderView: 0x24fb11be800
+[2026-02-07 16:02:16.099] [RBXClient] [debug] [17432]: DataModel (Ugc): 0x24fa753b638
+[2026-02-07 16:02:16.100] [RBXClient] [debug] [17432]: LocalPlayer: 0x24fb5002080
+[2026-02-07 16:02:16.100] [RBXClient] [debug] [mikakaesukaka (17432)]: LocalPlayer Name: 'mikakaesukaka'
+[2026-02-07 16:02:16.101] [RBXClient] [trace] [mikakaesukaka (17432)]: Attaching in-game using translation module.
+[2026-02-07 16:02:16.102] [RBXClient] [debug] [mikakaesukaka (17432)]: EventConnection: 0x24fae53dec0, SharedString: 0x24fae5418c0
+[2026-02-07 16:02:16.313] [RBXClient] [trace] [mikakaesukaka (17432)]: Intercepted translation module @0x24fae550940
+[2026-02-07 16:02:16.340] [RBXClient] [trace] [mikakaesukaka (17432)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 16:02:16.351] [RBXClient] [trace] [mikakaesukaka (17432)]: Attach ping received from client "mikakaesukaka", This indicates everything was successful.
+[2026-02-07 16:04:45.990] [RBXClient] [trace] [mikakaesukaka (17432)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 16:04:46.156] [RBXClient] [trace] 	[mikakaesukaka (17432)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 16:05:02.263] [RBXClient] [trace] [mikakaesukaka (17432)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 16:05:02.451] [RBXClient] [trace] 	[mikakaesukaka (17432)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 16:06:42.314] [RBXClient] [trace] [mikakaesukaka (17432)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 16:06:42.498] [RBXClient] [trace] 	[mikakaesukaka (17432)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 16:06:48.051] [RBXClient] [trace] [mikakaesukaka (17432)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 16:06:48.051] [Xeno] [info] Removed RBXClient: 17432
+[2026-02-07 16:06:53.067] [Xeno] [info] Cleaned up '17432' from InitializedClients
+[2026-02-07 16:07:52.597] [Xeno] [info] Creating new RBXClient: 31200
+[2026-02-07 16:07:52.603] [RBXClient] [info] [31200]: Initializing...
+[2026-02-07 16:07:52.603] [RBXClient] [info] [31200]: Version: version-80c7b8e578f241ff
+[2026-02-07 16:07:52.609] [Xeno] [debug] Created RBXClient instance @0x2a68b607f10
+[2026-02-07 16:07:52.609] [Xeno] [info] Successfully created RBXClient: 31200
+[2026-02-07 16:07:52.609] [RBXClient] [trace] [31200]: Attempting to retrieve RBXClient data...
+[2026-02-07 16:07:52.662] [RBXClient] [trace] [31200]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 16:07:52.663] [RBXClient] [error] [31200]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 16:07:52.664] [RBXClient] [debug] [31200]: Fetching DataModel...
+[2026-02-07 16:07:52.693] [RBXClient] [debug] [31200]: 	String: 0x24c50e46850
+[2026-02-07 16:07:52.693] [RBXClient] [debug] [31200]: 	RenderView: 0x24c50b3e800
+[2026-02-07 16:07:52.694] [RBXClient] [debug] [31200]: DataModel (Ugc): 0x24c46ebb638
+[2026-02-07 16:07:52.695] [RBXClient] [debug] [31200]: LocalPlayer: 0x24c57f50080
+[2026-02-07 16:07:52.695] [RBXClient] [debug] [mikakaesukaka (31200)]: LocalPlayer Name: 'mikakaesukaka'
+[2026-02-07 16:07:52.696] [RBXClient] [trace] [mikakaesukaka (31200)]: Attaching in-game using translation module.
+[2026-02-07 16:07:52.697] [RBXClient] [debug] [mikakaesukaka (31200)]: EventConnection: 0x24c4dfcdec0, SharedString: 0x24c5066dbc0
+[2026-02-07 16:07:52.898] [RBXClient] [trace] [mikakaesukaka (31200)]: Intercepted translation module @0x24c4dfd0940
+[2026-02-07 16:07:52.927] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 16:07:52.942] [RBXClient] [trace] [mikakaesukaka (31200)]: Attach ping received from client "mikakaesukaka", This indicates everything was successful.
+[2026-02-07 16:08:58.400] [WebSocket] [debug] [31200]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 16:09:36.116] [WebSocket] [debug] [31200]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 16:09:41.316] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 16:09:41.477] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 16:09:58.838] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 16:09:58.988] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 16:23:17.366] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 16:23:17.532] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:01:32.916] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:01:33.078] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:01:51.731] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:01:51.886] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:03:03.622] [Execution] [error] [31200]: Failed to compile (this is a problem with your script): :1: Expected identifier when parsing expression, got Unicode character U+a0 (did you mean ' '?)
+[2026-02-07 17:03:08.356] [Execution] [error] [31200]: Failed to compile (this is a problem with your script): :1: Expected identifier when parsing expression, got Unicode character U+a0 (did you mean ' '?)
+[2026-02-07 17:03:47.231] [WebSocket] [debug] [31200]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 17:04:10.156] [WebSocket] [debug] [31200]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 17:04:12.140] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:04:12.297] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:04:31.049] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:04:31.183] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:04:48.786] [WebSocket] [debug] [31200]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 17:04:55.437] [WebSocket] [debug] [31200]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 17:05:31.104] [Execution] [error] [31200]: Could not find a CoreModule
+[2026-02-07 17:05:33.561] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:05:33.714] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:06:28.280] [RBXClient] [trace] [mikakaesukaka (31200)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:06:28.409] [RBXClient] [trace] 	[mikakaesukaka (31200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:08:44.499] [RBXClient] [trace] [mikakaesukaka (31200)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 17:08:44.500] [Xeno] [info] Removed RBXClient: 31200
+[2026-02-07 17:08:49.507] [Xeno] [info] Cleaned up '31200' from InitializedClients
+[2026-02-07 17:08:52.503] [Xeno] [info] Creating new RBXClient: 31200
+[2026-02-07 17:08:52.504] [RBXClient] [info] [31200]: Initializing...
+[2026-02-07 17:08:52.504] [RBXClient] [info] [31200]: Version: version-80c7b8e578f241ff
+[2026-02-07 17:08:52.504] [Xeno] [debug] Created RBXClient instance @0x2a68bc23240
+[2026-02-07 17:08:52.504] [Xeno] [info] Successfully created RBXClient: 31200
+[2026-02-07 17:08:52.504] [Xeno] [info] Creating new RBXClient: 16984
+[2026-02-07 17:08:52.505] [RBXClient] [info] [16984]: Initializing...
+[2026-02-07 17:08:52.505] [RBXClient] [info] [16984]: Version: version-80c7b8e578f241ff
+[2026-02-07 17:08:52.505] [Xeno] [debug] Created RBXClient instance @0x2a68b60a850
+[2026-02-07 17:08:52.505] [Xeno] [info] Successfully created RBXClient: 16984
+[2026-02-07 17:08:52.505] [RBXClient] [trace] [31200]: Attempting to retrieve RBXClient data...
+[2026-02-07 17:08:52.505] [RBXClient] [trace] [16984]: Attempting to retrieve RBXClient data...
+[2026-02-07 17:08:52.583] [RBXClient] [trace] [16984]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 17:08:52.584] [RBXClient] [error] [16984]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 17:08:52.585] [RBXClient] [debug] [16984]: Fetching DataModel...
+[2026-02-07 17:08:52.615] [RBXClient] [trace] [31200]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 17:08:52.616] [RBXClient] [error] [31200]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 17:08:52.617] [RBXClient] [info] [31200]: Waiting for Client Window
+[2026-02-07 17:08:52.751] [RBXClient] [debug] [16984]: 	String: 0x185d6274050
+[2026-02-07 17:08:52.751] [RBXClient] [debug] [16984]: 	RenderView: 0x185d5eae800
+[2026-02-07 17:08:52.753] [RBXClient] [debug] [16984]: DataModel (Ugc): 0x185cae6b638
+[2026-02-07 17:08:52.756] [RBXClient] [debug] [16984]: LocalPlayer: 0x185ce861080
+[2026-02-07 17:08:52.756] [RBXClient] [debug] [mikakaesukaka (16984)]: LocalPlayer Name: 'mikakaesukaka'
+[2026-02-07 17:08:52.758] [RBXClient] [trace] [mikakaesukaka (16984)]: Attaching in-game using translation module.
+[2026-02-07 17:08:52.760] [RBXClient] [debug] [mikakaesukaka (16984)]: EventConnection: 0x185cfe2dec0, SharedString: 0x185d529ff80
+[2026-02-07 17:08:53.000] [RBXClient] [trace] [mikakaesukaka (16984)]: Intercepted translation module @0x185cfe40940
+[2026-02-07 17:08:53.047] [RBXClient] [trace] [mikakaesukaka (16984)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 17:08:53.053] [RBXClient] [trace] [mikakaesukaka (16984)]: Attach ping received from client "mikakaesukaka", This indicates everything was successful.
+[2026-02-07 17:09:02.631] [RBXClient] [critical] [31200]: Timeout (10) exceeded while waiting for window
+[2026-02-07 17:09:02.725] [RBXClient] [trace] [[!] Failed (31200)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 17:09:02.725] [Xeno] [info] Removed RBXClient: 31200
+[2026-02-07 17:09:07.729] [Xeno] [info] Cleaned up '31200' from InitializedClients
+[2026-02-07 17:10:15.147] [RBXClient] [trace] [mikakaesukaka (16984)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:10:15.278] [RBXClient] [trace] 	[mikakaesukaka (16984)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:20:16.932] [RBXClient] [trace] [mikakaesukaka (16984)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 17:20:17.062] [RBXClient] [trace] 	[mikakaesukaka (16984)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 17:41:20.308] [RBXClient] [trace] [mikakaesukaka (16984)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 17:41:20.309] [Xeno] [info] Removed RBXClient: 16984
+[2026-02-07 17:41:25.320] [Xeno] [info] Cleaned up '16984' from InitializedClients
+[2026-02-07 17:43:16.975] [Xeno] [info] Creating new RBXClient: 15212
+[2026-02-07 17:43:16.976] [RBXClient] [info] [15212]: Initializing...
+[2026-02-07 17:43:16.976] [RBXClient] [info] [15212]: Version: version-80c7b8e578f241ff
+[2026-02-07 17:43:16.976] [Xeno] [debug] Created RBXClient instance @0x2a68b608960
+[2026-02-07 17:43:16.976] [Xeno] [info] Successfully created RBXClient: 15212
+[2026-02-07 17:43:16.976] [RBXClient] [trace] [15212]: Attempting to retrieve RBXClient data...
+[2026-02-07 17:43:17.009] [RBXClient] [trace] [15212]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 17:43:17.010] [RBXClient] [error] [15212]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 17:43:17.010] [RBXClient] [debug] [15212]: Fetching DataModel...
+[2026-02-07 17:43:17.038] [RBXClient] [debug] [15212]: 	String: 0x2519b5e4f50
+[2026-02-07 17:43:17.038] [RBXClient] [debug] [15212]: 	RenderView: 0x2519b2ee800
+[2026-02-07 17:43:17.039] [RBXClient] [debug] [15212]: DataModel (LuaApp): 0x2519f3c9238
+[2026-02-07 17:43:17.040] [RBXClient] [debug] [15212]: LocalPlayer: 0x25196060080
+[2026-02-07 17:43:17.040] [RBXClient] [debug] [Bread_agent47 (15212)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-07 17:43:17.040] [RBXClient] [trace] [Bread_agent47 (15212)]: Attaching through the home page.
+[2026-02-07 17:43:17.320] [RBXClient] [debug] [Bread_agent47 (15212)]: SharedString: 0x2519ce30f40
+[2026-02-07 17:43:17.333] [RBXClient] [debug] [Bread_agent47 (15212)]: SharedString: 0x251a31183c0
+[2026-02-07 17:43:17.339] [RBXClient] [debug] [Bread_agent47 (15212)]: SharedString: 0x251a87bb100
+[2026-02-07 17:43:17.342] [RBXClient] [info] [Bread_agent47 (15212)]: Bytecode has been successfully set in menu.
+[2026-02-07 17:43:23.306] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 17:43:23.321] [RBXClient] [trace] [Bread_agent47 (15212)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-07 17:49:03.801] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 17:53:28.448] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 17:53:53.841] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 17:56:52.891] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 17:59:56.711] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:03:20.860] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:05:52.759] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:07:48.042] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:08:16.838] [RBXClient] [trace] [Bread_agent47 (15212)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:11:51.384] [RBXClient] [trace] [Bread_agent47 (15212)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 18:11:51.386] [Xeno] [info] Removed RBXClient: 15212
+[2026-02-07 18:11:56.393] [Xeno] [info] Cleaned up '15212' from InitializedClients
+[2026-02-07 18:13:02.999] [Xeno] [info] Creating new RBXClient: 18192
+[2026-02-07 18:13:02.999] [Xeno] [info] Creating new RBXClient: 15212
+[2026-02-07 18:13:03.001] [RBXClient] [info] [18192]: Initializing...
+[2026-02-07 18:13:03.001] [RBXClient] [info] [15212]: Initializing...
+[2026-02-07 18:13:03.002] [RBXClient] [info] [18192]: Version: version-80c7b8e578f241ff
+[2026-02-07 18:13:03.002] [RBXClient] [info] [15212]: Version: version-80c7b8e578f241ff
+[2026-02-07 18:13:03.002] [Xeno] [debug] Created RBXClient instance @0x2a68b608750
+[2026-02-07 18:13:03.002] [Xeno] [debug] Created RBXClient instance @0x2a68b608f90
+[2026-02-07 18:13:03.002] [Xeno] [info] Successfully created RBXClient: 18192
+[2026-02-07 18:13:03.002] [Xeno] [info] Successfully created RBXClient: 15212
+[2026-02-07 18:13:03.003] [RBXClient] [trace] [18192]: Attempting to retrieve RBXClient data...
+[2026-02-07 18:13:03.003] [RBXClient] [trace] [15212]: Attempting to retrieve RBXClient data...
+[2026-02-07 18:13:03.053] [RBXClient] [trace] [15212]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 18:13:03.053] [RBXClient] [trace] [18192]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 18:13:03.056] [RBXClient] [error] [15212]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 18:13:03.056] [RBXClient] [error] [18192]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 18:13:03.057] [RBXClient] [debug] [18192]: Fetching DataModel...
+[2026-02-07 18:13:03.057] [RBXClient] [info] [15212]: Waiting for Client Window
+[2026-02-07 18:13:03.087] [RBXClient] [debug] [18192]: 	String: 0x1aa0d085950
+[2026-02-07 18:13:03.087] [RBXClient] [debug] [18192]: 	RenderView: 0x1aa0ccde800
+[2026-02-07 18:13:03.088] [RBXClient] [debug] [18192]: DataModel (Ugc): 0x1aa00f9b638
+[2026-02-07 18:13:03.089] [RBXClient] [debug] [18192]: LocalPlayer: 0x1aa0ee44080
+[2026-02-07 18:13:03.089] [RBXClient] [debug] [Bread_agent47 (18192)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-07 18:13:03.090] [RBXClient] [trace] [Bread_agent47 (18192)]: Attaching in-game using translation module.
+[2026-02-07 18:13:03.091] [RBXClient] [debug] [Bread_agent47 (18192)]: EventConnection: 0x1aa0942e5c0, SharedString: 0x1aa094319c0
+[2026-02-07 18:13:03.263] [RBXClient] [trace] [Bread_agent47 (18192)]: Intercepted translation module @0x1aa09441040
+[2026-02-07 18:13:03.417] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:13:03.429] [RBXClient] [trace] [Bread_agent47 (18192)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-07 18:13:13.065] [RBXClient] [critical] [15212]: Timeout (10) exceeded while waiting for window
+[2026-02-07 18:13:13.173] [RBXClient] [trace] [[!] Failed (15212)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 18:13:13.173] [Xeno] [info] Removed RBXClient: 15212
+[2026-02-07 18:13:18.181] [Xeno] [info] Cleaned up '15212' from InitializedClients
+[2026-02-07 18:20:08.884] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:20:09.035] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:23:23.445] [WebSocket] [debug] [18192]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 18:23:35.348] [WebSocket] [debug] [18192]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 18:24:45.581] [Execution] [error] [18192]: Could not find a CoreModule
+[2026-02-07 18:24:49.979] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:24:50.141] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:24:50.157] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:27:32.028] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:27:32.193] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:27:32.208] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:33:50.788] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:33:50.937] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:33:50.953] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:33:54.465] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:37:25.483] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:37:25.646] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:37:25.662] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:37:28.557] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:37:29.975] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:37:29.980] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:38:25.158] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:38:25.311] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:38:25.326] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:38:28.959] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:38:29.122] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:38:29.122] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:40:01.101] [RBXClient] [trace] [Bread_agent47 (18192)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 18:40:01.254] [RBXClient] [trace] 	[Bread_agent47 (18192)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 18:40:01.269] [Execution] [trace] [Bread_agent47 (18192)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 18:40:23.919] [RBXClient] [trace] [Bread_agent47 (18192)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 18:40:23.919] [Xeno] [info] Removed RBXClient: 18192
+[2026-02-07 18:40:28.930] [Xeno] [info] Cleaned up '18192' from InitializedClients
+[2026-02-07 18:41:12.054] [Xeno] [info] Creating new RBXClient: 3412
+[2026-02-07 18:41:12.054] [RBXClient] [info] [3412]: Initializing...
+[2026-02-07 18:41:12.054] [RBXClient] [info] [3412]: Version: version-80c7b8e578f241ff
+[2026-02-07 18:41:12.054] [Xeno] [debug] Created RBXClient instance @0x2a683d494d0
+[2026-02-07 18:41:12.054] [Xeno] [info] Successfully created RBXClient: 3412
+[2026-02-07 18:41:12.054] [RBXClient] [trace] [3412]: Attempting to retrieve RBXClient data...
+[2026-02-07 18:41:12.076] [RBXClient] [trace] [3412]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 18:41:12.076] [RBXClient] [error] [3412]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 18:41:12.076] [RBXClient] [debug] [3412]: Fetching DataModel...
+[2026-02-07 18:41:12.102] [RBXClient] [debug] [3412]: 	String: 0x1a415676850
+[2026-02-07 18:41:12.102] [RBXClient] [debug] [3412]: 	RenderView: 0x1a41538e800
+[2026-02-07 18:41:12.103] [RBXClient] [debug] [3412]: DataModel (Ugc): 0x1a40a0ab638
+[2026-02-07 18:41:12.103] [RBXClient] [debug] [3412]: LocalPlayer: 0x1a40bca2080
+[2026-02-07 18:41:12.103] [RBXClient] [debug] [Bread_agent47 (3412)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-07 18:41:12.104] [RBXClient] [trace] [Bread_agent47 (3412)]: Attaching in-game using translation module.
+[2026-02-07 18:41:12.105] [RBXClient] [debug] [Bread_agent47 (3412)]: EventConnection: 0x1a41250dec0, SharedString: 0x1a412511a40
+[2026-02-07 18:41:12.246] [RBXClient] [trace] [Bread_agent47 (3412)]: Intercepted translation module @0x1a412520940
+[2026-02-07 18:41:12.272] [RBXClient] [trace] [Bread_agent47 (3412)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:41:12.282] [RBXClient] [trace] [Bread_agent47 (3412)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-07 18:44:02.801] [Server] [error] Xeno Server encountered an exception: 'create_directory: The filename, directory name, or volume label syntax is incorrect.: "Blox Fruits | Trade Script v1"', client request payload: '{"c":"Blox Fruits | Trade Script v1"}', request enum: '4'. Please report this to me (Rizve)
+[2026-02-07 18:44:04.529] [Server] [error] Xeno Server encountered an exception: 'create_directory: The filename, directory name, or volume label syntax is incorrect.: "Blox Fruits | Trade Script v1"', client request payload: '{"c":"Blox Fruits | Trade Script v1"}', request enum: '4'. Please report this to me (Rizve)
+[2026-02-07 18:46:30.072] [Execution] [error] [Bread_agent47 (3412)][::GetInstanceFromObjectValue]: DataModel address is invalid
+[2026-02-07 18:49:27.727] [RBXClient] [trace] [Bread_agent47 (3412)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 18:49:27.727] [Xeno] [info] Removed RBXClient: 3412
+[2026-02-07 18:49:32.735] [Xeno] [info] Cleaned up '3412' from InitializedClients
+[2026-02-07 18:50:24.786] [Xeno] [info] Creating new RBXClient: 19444
+[2026-02-07 18:50:24.787] [RBXClient] [info] [19444]: Initializing...
+[2026-02-07 18:50:24.787] [RBXClient] [info] [19444]: Version: version-80c7b8e578f241ff
+[2026-02-07 18:50:24.787] [Xeno] [debug] Created RBXClient instance @0x2a68bc20900
+[2026-02-07 18:50:24.787] [Xeno] [info] Successfully created RBXClient: 19444
+[2026-02-07 18:50:24.787] [RBXClient] [trace] [19444]: Attempting to retrieve RBXClient data...
+[2026-02-07 18:50:24.814] [RBXClient] [trace] [19444]: Successfully retrieved RBXClient data (Primary)
+[2026-02-07 18:50:24.835] [RBXClient] [error] [19444]: Offsets for version "version-80c7b8e578f241ff" not found. Using offsets from default version: version-db4634f0e27d4d36. Please report this to me (Rizve)
+[2026-02-07 18:50:24.835] [RBXClient] [debug] [19444]: Fetching DataModel...
+[2026-02-07 18:50:24.863] [RBXClient] [debug] [19444]: 	String: 0x2a0d6f66850
+[2026-02-07 18:50:24.863] [RBXClient] [debug] [19444]: 	RenderView: 0x2a0d6bee800
+[2026-02-07 18:50:24.863] [RBXClient] [debug] [19444]: DataModel (Ugc): 0x2a0cb94b638
+[2026-02-07 18:50:24.864] [RBXClient] [debug] [19444]: LocalPlayer: 0x2a0cdf07080
+[2026-02-07 18:50:24.864] [RBXClient] [debug] [mikakaesukaka (19444)]: LocalPlayer Name: 'mikakaesukaka'
+[2026-02-07 18:50:24.865] [RBXClient] [trace] [mikakaesukaka (19444)]: Attaching in-game using translation module.
+[2026-02-07 18:50:24.866] [RBXClient] [debug] [mikakaesukaka (19444)]: EventConnection: 0x2a0d0b0e5c0, SharedString: 0x2a0d63c18c0
+[2026-02-07 18:50:25.026] [RBXClient] [trace] [mikakaesukaka (19444)]: Intercepted translation module @0x2a0d0b11040
+[2026-02-07 18:50:25.046] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: Client DataModel refreshed
+[2026-02-07 18:50:25.052] [RBXClient] [trace] [mikakaesukaka (19444)]: Attach ping received from client "mikakaesukaka", This indicates everything was successful.
+[2026-02-07 19:26:03.113] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 19:26:03.267] [RBXClient] [trace] 	[mikakaesukaka (19444)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 19:26:03.283] [Execution] [trace] [mikakaesukaka (19444)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 19:26:20.016] [WebSocket] [debug] [19444]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 20:32:28.217] [WebSocket] [debug] [19444]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-07 20:36:30.978] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 20:36:31.143] [RBXClient] [trace] 	[mikakaesukaka (19444)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 20:36:31.158] [Execution] [trace] [mikakaesukaka (19444)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 20:40:36.823] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 20:40:36.979] [RBXClient] [trace] 	[mikakaesukaka (19444)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 20:40:36.994] [Execution] [trace] [mikakaesukaka (19444)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 21:35:42.265] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 21:35:42.421] [RBXClient] [trace] 	[mikakaesukaka (19444)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 21:35:42.437] [Execution] [trace] [mikakaesukaka (19444)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 21:46:18.823] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 21:46:18.955] [RBXClient] [trace] 	[mikakaesukaka (19444)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 21:46:18.969] [Execution] [trace] [mikakaesukaka (19444)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 21:54:16.609] [RBXClient] [trace] [mikakaesukaka (19444)][::CRefresh]: DataModel is being loaded...
+[2026-02-07 21:54:16.769] [RBXClient] [trace] 	[mikakaesukaka (19444)][::CRefresh]: DataModel was loaded successfully
+[2026-02-07 21:54:16.784] [Execution] [trace] [mikakaesukaka (19444)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-07 22:14:06.827] [RBXClient] [trace] [mikakaesukaka (19444)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-07 22:14:06.828] [Xeno] [info] Removed RBXClient: 19444

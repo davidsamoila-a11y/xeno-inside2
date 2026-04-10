@@ -1,0 +1,33 @@
+[2026-02-04 10:45:32.693] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-04 10:45:32.693] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-04 10:45:32.693] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-04_10-45-32.log
+[2026-02-04 10:45:32.695] [Xeno] [debug] Client Checker thread: 0x3927f7d5b0
+[2026-02-04 10:45:32.695] [Xeno] [debug] Xeno Caching thread: 0x3927f7d5a0
+[2026-02-04 10:45:32.695] [Xeno] [debug] WebSockets Cleaner thread: 0x3927f7d590
+[2026-02-04 10:45:32.695] [Xeno] [debug] Xeno Server thread: 0x3927f7d580
+[2026-02-04 10:45:32.695] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-04 10:45:32.696] [Cache] [debug] No cache file found at C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-04 10:45:32.696] [Cache] [warning] No valid cache found (Starting new fresh cache)
+[2026-02-04 10:45:32.696] [Cache] [info] Inviting you to our Official Discord server :D https://discord.gg/xe-no
+[2026-02-04 10:45:32.696] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-04 10:45:32.697] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-04 10:46:17.940] [Xeno] [info] Creating new RBXClient: 7156
+[2026-02-04 10:46:17.940] [RBXClient] [info] [7156]: Initializing...
+[2026-02-04 10:46:17.941] [RBXClient] [info] [7156]: Version: version-bc1e28f4be1f4266
+[2026-02-04 10:46:17.941] [Xeno] [debug] Created RBXClient instance @0x1f489dd34b0
+[2026-02-04 10:46:17.941] [Xeno] [info] Successfully created RBXClient: 7156
+[2026-02-04 10:46:17.941] [RBXClient] [trace] [7156]: Attempting to retrieve RBXClient data...
+[2026-02-04 10:46:17.985] [RBXClient] [trace] [7156]: Successfully retrieved RBXClient data (Primary)
+[2026-02-04 10:46:17.986] [RBXClient] [debug] [7156]: Fetching DataModel...
+[2026-02-04 10:46:18.011] [RBXClient] [debug] [7156]: 	String: 0x1fa867e3b50
+[2026-02-04 10:46:18.011] [RBXClient] [debug] [7156]: 	RenderView: 0x1fa8cb5dc00
+[2026-02-04 10:46:18.013] [RBXClient] [debug] [7156]: DataModel (Ugc): 0x1fa812eb638
+[2026-02-04 10:46:18.014] [RBXClient] [debug] [7156]: LocalPlayer: 0x1fa8d3b4080
+[2026-02-04 10:46:18.014] [RBXClient] [debug] [Bread_agent47 (7156)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-04 10:46:18.015] [RBXClient] [trace] [Bread_agent47 (7156)]: Attaching in-game using translation module.
+[2026-02-04 10:46:18.015] [RBXClient] [debug] [Bread_agent47 (7156)]: EventConnection: 0x1fa8687fc80, SharedString: 0x1fa85dbb140
+[2026-02-04 10:46:18.182] [RBXClient] [trace] [Bread_agent47 (7156)]: Intercepted translation module @0x1fa86882700
+[2026-02-04 10:46:18.238] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: Client DataModel refreshed
+[2026-02-04 10:46:18.242] [RBXClient] [trace] [Bread_agent47 (7156)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-04 10:51:20.548] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 10:51:20.704] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully

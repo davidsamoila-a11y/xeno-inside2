@@ -1,0 +1,40 @@
+[2026-02-05 10:07:00.642] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-05 10:07:00.642] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-05 10:07:00.642] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-05_10-07-00.log
+[2026-02-05 10:07:00.648] [Xeno] [debug] Client Checker thread: 0x6d7977d750
+[2026-02-05 10:07:00.648] [Xeno] [debug] Xeno Caching thread: 0x6d7977d740
+[2026-02-05 10:07:00.649] [Xeno] [debug] WebSockets Cleaner thread: 0x6d7977d730
+[2026-02-05 10:07:00.649] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-05 10:07:00.649] [Xeno] [debug] Xeno Server thread: 0x6d7977d720
+[2026-02-05 10:07:00.651] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-05 10:07:00.651] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-05 10:07:03.528] [Xeno] [info] Creating new RBXClient: 13748
+[2026-02-05 10:07:03.529] [RBXClient] [info] [13748]: Initializing...
+[2026-02-05 10:07:03.529] [RBXClient] [info] [13748]: Version: version-bc1e28f4be1f4266
+[2026-02-05 10:07:03.529] [Xeno] [debug] Created RBXClient instance @0x1f18989b100
+[2026-02-05 10:07:03.529] [Xeno] [info] Successfully created RBXClient: 13748
+[2026-02-05 10:07:03.530] [RBXClient] [trace] [13748]: Attempting to retrieve RBXClient data...
+[2026-02-05 10:07:03.571] [RBXClient] [trace] [13748]: Successfully retrieved RBXClient data (Primary)
+[2026-02-05 10:07:03.572] [RBXClient] [debug] [13748]: Fetching DataModel...
+[2026-02-05 10:07:03.673] [RBXClient] [debug] [13748]: 	String: 0x19f50a63b50
+[2026-02-05 10:07:03.674] [RBXClient] [debug] [13748]: 	RenderView: 0x19f5066d800
+[2026-02-05 10:07:03.675] [RBXClient] [debug] [13748]: DataModel (Ugc): 0x19f4286b638
+[2026-02-05 10:07:03.676] [RBXClient] [debug] [13748]: LocalPlayer: 0x19f47121080
+[2026-02-05 10:07:03.676] [RBXClient] [debug] [Bread_agent47 (13748)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-05 10:07:03.677] [RBXClient] [trace] [Bread_agent47 (13748)]: Attaching in-game using translation module.
+[2026-02-05 10:07:03.677] [RBXClient] [debug] [Bread_agent47 (13748)]: EventConnection: 0x19f4a1c0080, SharedString: 0x19f4406d600
+[2026-02-05 10:07:03.871] [RBXClient] [trace] [Bread_agent47 (13748)]: Intercepted translation module @0x19f4a1c2a80
+[2026-02-05 10:07:03.931] [RBXClient] [trace] [Bread_agent47 (13748)][::CRefresh]: Client DataModel refreshed
+[2026-02-05 10:07:03.935] [RBXClient] [trace] [Bread_agent47 (13748)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-05 10:07:21.397] [RBXClient] [trace] [Bread_agent47 (13748)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 10:07:21.432] [RBXClient] [trace] 	[Bread_agent47 (13748)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 10:10:00.563] [RBXClient] [trace] [Bread_agent47 (13748)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 10:10:00.591] [RBXClient] [trace] 	[Bread_agent47 (13748)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 10:10:59.289] [RBXClient] [trace] [Bread_agent47 (13748)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 10:10:59.319] [RBXClient] [trace] 	[Bread_agent47 (13748)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 10:22:17.563] [RBXClient] [trace] [Bread_agent47 (13748)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 10:22:17.601] [RBXClient] [trace] 	[Bread_agent47 (13748)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 10:28:59.426] [WebSocket] [debug] [13748]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 10:33:38.724] [RBXClient] [trace] [Bread_agent47 (13748)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-05 10:33:38.724] [Xeno] [info] Removed RBXClient: 13748
+[2026-02-05 10:33:39.033] [WebSocket] [debug] [13748]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'

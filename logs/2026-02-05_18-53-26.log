@@ -1,0 +1,266 @@
+[2026-02-05 18:53:26.614] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-05 18:53:26.615] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-05 18:53:26.615] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-05_18-53-26.log
+[2026-02-05 18:53:26.619] [Xeno] [debug] Client Checker thread: 0x600b37d640
+[2026-02-05 18:53:26.619] [Xeno] [debug] Xeno Caching thread: 0x600b37d630
+[2026-02-05 18:53:26.619] [Xeno] [debug] WebSockets Cleaner thread: 0x600b37d620
+[2026-02-05 18:53:26.619] [Xeno] [debug] Xeno Server thread: 0x600b37d610
+[2026-02-05 18:53:26.619] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-05 18:53:26.621] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-05 18:53:26.621] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-05 18:56:11.977] [Xeno] [info] Creating new RBXClient: 14200
+[2026-02-05 18:56:11.978] [RBXClient] [info] [14200]: Initializing...
+[2026-02-05 18:56:11.979] [RBXClient] [info] [14200]: Version: version-bc1e28f4be1f4266
+[2026-02-05 18:56:11.979] [Xeno] [debug] Created RBXClient instance @0x16e11260130
+[2026-02-05 18:56:11.979] [Xeno] [info] Successfully created RBXClient: 14200
+[2026-02-05 18:56:11.980] [RBXClient] [trace] [14200]: Attempting to retrieve RBXClient data...
+[2026-02-05 18:56:12.027] [RBXClient] [trace] [14200]: Successfully retrieved RBXClient data (Primary)
+[2026-02-05 18:56:12.030] [RBXClient] [debug] [14200]: Fetching DataModel...
+[2026-02-05 18:56:12.051] [RBXClient] [debug] [14200]: 	String: 0x2638a334550
+[2026-02-05 18:56:12.051] [RBXClient] [debug] [14200]: 	RenderView: 0x2638a1bd800
+[2026-02-05 18:56:12.052] [RBXClient] [debug] [14200]: DataModel (Ugc): 0x263812eb638
+[2026-02-05 18:56:12.053] [RBXClient] [debug] [14200]: LocalPlayer: 0x263833d6080
+[2026-02-05 18:56:12.053] [RBXClient] [debug] [Bread_agent47 (14200)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-05 18:56:12.054] [RBXClient] [trace] [Bread_agent47 (14200)]: Attaching in-game using translation module.
+[2026-02-05 18:56:12.055] [RBXClient] [debug] [Bread_agent47 (14200)]: EventConnection: 0x2638259fc80, SharedString: 0x26387268e80
+[2026-02-05 18:56:12.256] [RBXClient] [trace] [Bread_agent47 (14200)]: Intercepted translation module @0x263825a2700
+[2026-02-05 18:56:12.295] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: Client DataModel refreshed
+[2026-02-05 18:56:12.310] [RBXClient] [trace] [Bread_agent47 (14200)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-05 18:56:17.244] [WebSocket] [debug] [14200]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 18:57:14.728] [WebSocket] [debug] [14200]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 18:57:14.785] [WebSocket] [error] [14200]: WebSocket returned error "(Unable to connect to eu2-roblox-auth.luarmor.net on port 443, error: The requested name is valid, but no data of the requested type was found. )" for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 18:57:25.128] [WebSocket] [debug] [14200]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 18:59:03.899] [WebSocket] [debug] [14200]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 18:59:04.150] [WebSocket] [debug] [14200]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:00:16.061] [WebSocket] [debug] [14200]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:00:22.131] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:00:22.258] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:00:22.273] [Execution] [trace] [Bread_agent47 (14200)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:00:37.236] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:00:37.270] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:01:30.228] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:01:30.257] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:01:47.085] [WebSocket] [debug] [14200]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:06:55.069] [WebSocket] [debug] [14200]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:06:56.206] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:06:56.246] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:07:04.832] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:07:04.864] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:07:10.046] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:07:10.167] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:07:22.550] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:07:22.590] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:07:28.933] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:07:29.057] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:07:49.601] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:07:49.734] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:07:49.750] [Execution] [trace] [Bread_agent47 (14200)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:08:00.971] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:08:01.002] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:08:06.904] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:08:06.929] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:08:18.748] [RBXClient] [trace] [Bread_agent47 (14200)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:08:18.774] [RBXClient] [trace] 	[Bread_agent47 (14200)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:08:28.486] [RBXClient] [trace] [Bread_agent47 (14200)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-05 19:08:28.486] [Xeno] [info] Removed RBXClient: 14200
+[2026-02-05 19:08:33.496] [Xeno] [info] Cleaned up '14200' from InitializedClients
+[2026-02-05 19:08:54.319] [Xeno] [info] Creating new RBXClient: 24128
+[2026-02-05 19:08:54.319] [RBXClient] [info] [24128]: Initializing...
+[2026-02-05 19:08:54.319] [RBXClient] [info] [24128]: Version: version-bc1e28f4be1f4266
+[2026-02-05 19:08:54.319] [Xeno] [debug] Created RBXClient instance @0x16e07f53e30
+[2026-02-05 19:08:54.319] [Xeno] [info] Successfully created RBXClient: 24128
+[2026-02-05 19:08:54.319] [RBXClient] [trace] [24128]: Attempting to retrieve RBXClient data...
+[2026-02-05 19:08:54.364] [RBXClient] [trace] [24128]: Successfully retrieved RBXClient data (Primary)
+[2026-02-05 19:08:54.364] [RBXClient] [debug] [24128]: Fetching DataModel...
+[2026-02-05 19:08:54.391] [RBXClient] [debug] [24128]: 	String: 0x23a97833650
+[2026-02-05 19:08:54.391] [RBXClient] [debug] [24128]: 	RenderView: 0x23a9570d800
+[2026-02-05 19:08:54.392] [RBXClient] [debug] [24128]: DataModel (Ugc): 0x23a8a63b638
+[2026-02-05 19:08:54.393] [RBXClient] [debug] [24128]: LocalPlayer: 0x23a9958c080
+[2026-02-05 19:08:54.393] [RBXClient] [debug] [Bread_agent47 (24128)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-05 19:08:54.393] [RBXClient] [trace] [Bread_agent47 (24128)]: Attaching in-game using translation module.
+[2026-02-05 19:08:54.394] [RBXClient] [debug] [Bread_agent47 (24128)]: EventConnection: 0x23a8b11fc80, SharedString: 0x23a9270ac80
+[2026-02-05 19:08:54.527] [RBXClient] [trace] [Bread_agent47 (24128)]: Intercepted translation module @0x23a8b122700
+[2026-02-05 19:08:54.546] [RBXClient] [trace] [Bread_agent47 (24128)][::CRefresh]: Client DataModel refreshed
+[2026-02-05 19:08:54.551] [RBXClient] [trace] [Bread_agent47 (24128)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-05 19:09:02.812] [WebSocket] [debug] [24128]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:11:19.849] [WebSocket] [debug] [24128]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:11:24.814] [RBXClient] [trace] [Bread_agent47 (24128)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:11:24.939] [RBXClient] [trace] 	[Bread_agent47 (24128)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:11:24.954] [Execution] [trace] [Bread_agent47 (24128)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:11:33.254] [WebSocket] [debug] [24128]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:12:23.715] [WebSocket] [debug] [24128]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:12:24.820] [RBXClient] [trace] [Bread_agent47 (24128)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:12:24.857] [RBXClient] [trace] 	[Bread_agent47 (24128)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:12:48.262] [RBXClient] [trace] [Bread_agent47 (24128)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:12:48.387] [RBXClient] [trace] 	[Bread_agent47 (24128)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:12:48.402] [Execution] [trace] [Bread_agent47 (24128)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:12:55.897] [WebSocket] [debug] [24128]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:24:53.193] [WebSocket] [debug] [24128]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:24:59.090] [RBXClient] [trace] [Bread_agent47 (24128)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:24:59.219] [RBXClient] [trace] 	[Bread_agent47 (24128)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:24:59.236] [Execution] [trace] [Bread_agent47 (24128)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:25:23.341] [WebSocket] [debug] [24128]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:25:43.681] [WebSocket] [debug] [24128]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:25:45.188] [RBXClient] [trace] [Bread_agent47 (24128)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:25:45.224] [RBXClient] [trace] 	[Bread_agent47 (24128)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:25:59.625] [RBXClient] [trace] [Bread_agent47 (24128)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-05 19:25:59.625] [Xeno] [info] Removed RBXClient: 24128
+[2026-02-05 19:26:04.637] [Xeno] [info] Cleaned up '24128' from InitializedClients
+[2026-02-05 19:27:29.550] [Xeno] [info] Creating new RBXClient: 22164
+[2026-02-05 19:27:29.550] [RBXClient] [info] [22164]: Initializing...
+[2026-02-05 19:27:29.550] [RBXClient] [info] [22164]: Version: version-bc1e28f4be1f4266
+[2026-02-05 19:27:29.550] [Xeno] [debug] Created RBXClient instance @0x16e66af8220
+[2026-02-05 19:27:29.550] [Xeno] [info] Successfully created RBXClient: 22164
+[2026-02-05 19:27:29.551] [RBXClient] [trace] [22164]: Attempting to retrieve RBXClient data...
+[2026-02-05 19:27:29.591] [RBXClient] [trace] [22164]: Successfully retrieved RBXClient data (Primary)
+[2026-02-05 19:27:29.592] [RBXClient] [debug] [22164]: Fetching DataModel...
+[2026-02-05 19:27:29.619] [RBXClient] [debug] [22164]: 	String: 0x296d1173b50
+[2026-02-05 19:27:29.619] [RBXClient] [debug] [22164]: 	RenderView: 0x296cf0bd800
+[2026-02-05 19:27:29.619] [RBXClient] [debug] [22164]: DataModel (Ugc): 0x296c615b638
+[2026-02-05 19:27:29.620] [RBXClient] [debug] [22164]: LocalPlayer: 0x296c9cc7080
+[2026-02-05 19:27:29.620] [RBXClient] [debug] [Bread_agent47 (22164)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-05 19:27:29.621] [RBXClient] [trace] [Bread_agent47 (22164)]: Attaching in-game using translation module.
+[2026-02-05 19:27:29.622] [RBXClient] [debug] [Bread_agent47 (22164)]: EventConnection: 0x296cb9105c0, SharedString: 0x296cc11bb00
+[2026-02-05 19:27:29.750] [RBXClient] [trace] [Bread_agent47 (22164)]: Intercepted translation module @0x296cb912fc0
+[2026-02-05 19:27:29.771] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: Client DataModel refreshed
+[2026-02-05 19:27:29.776] [RBXClient] [trace] [Bread_agent47 (22164)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-05 19:27:32.127] [WebSocket] [debug] [22164]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:28:33.305] [WebSocket] [debug] [22164]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:28:34.801] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:28:34.840] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:28:59.625] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:28:59.757] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:28:59.773] [Execution] [trace] [Bread_agent47 (22164)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:29:12.917] [WebSocket] [debug] [22164]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:30:10.646] [WebSocket] [debug] [22164]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:30:11.789] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:30:11.824] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:30:38.392] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:30:38.431] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:31:00.733] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:31:00.771] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:32:00.423] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:32:00.456] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:32:29.747] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:32:29.786] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:34:08.210] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:34:08.236] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:41:02.744] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:41:02.873] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:41:02.889] [Execution] [trace] [Bread_agent47 (22164)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:41:18.862] [WebSocket] [debug] [22164]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:41:42.011] [WebSocket] [debug] [22164]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:41:44.707] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:41:44.832] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:41:44.847] [Execution] [trace] [Bread_agent47 (22164)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-05 19:41:54.538] [WebSocket] [debug] [22164]: Connection established for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:42:02.352] [WebSocket] [debug] [22164]: WebSocket Closed for url 'wss://eu1-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 19:42:03.610] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:42:03.648] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:42:23.964] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:42:24.003] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:50:10.542] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:50:10.580] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:52:25.105] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:52:25.137] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:52:45.449] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:52:45.486] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 19:53:18.827] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 19:53:18.855] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:04:43.513] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:04:43.549] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:06:09.899] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:06:09.938] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:13:18.453] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:13:18.489] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:13:46.972] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:13:47.006] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:14:07.455] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:14:07.495] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:14:36.932] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:14:36.962] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:22:15.449] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:22:15.476] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:22:41.389] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:22:41.424] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:24:42.503] [WebSocket] [debug] [22164]: Connection established for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 20:37:03.286] [WebSocket] [debug] [22164]: WebSocket Closed for url 'wss://eu2-roblox-auth.luarmor.net:443/wshttpemu'
+[2026-02-05 20:37:05.050] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:37:05.077] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 20:48:16.173] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 20:48:16.203] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:04:18.967] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:04:19.093] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:08:29.269] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:08:29.295] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:09:31.779] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:09:31.815] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:10:39.236] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:10:39.274] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:11:09.995] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:11:10.118] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:11:42.087] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:11:42.117] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:14:05.388] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:14:05.422] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:15:10.412] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:15:10.452] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:17:36.649] [Execution] [error] [22164]: Could not find a CoreModule
+[2026-02-05 21:17:40.432] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:17:40.616] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:17:48.332] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:17:48.365] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:19:07.089] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:19:07.118] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:20:28.027] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:20:28.149] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:22:11.007] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:22:11.136] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:27:57.919] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:27:58.039] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:27:59.919] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:27:59.956] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:28:24.332] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:28:24.453] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:28:55.920] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:28:56.021] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:29:04.651] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:29:04.781] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:30:01.022] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:30:01.157] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:30:14.480] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:30:14.603] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:31:22.110] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:31:22.241] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:33:21.664] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got unfinished comment
+[2026-02-05 21:33:26.331] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got unfinished comment
+[2026-02-05 21:34:51.421] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got unfinished comment
+[2026-02-05 21:36:37.829] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got unfinished comment
+[2026-02-05 21:37:49.084] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:37:56.720] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:37:57.092] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:38:23.856] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:38:54.963] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:38:55.119] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:39:27.177] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:39:46.800] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:39:46.929] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:40:14.435] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:40:14.568] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:40:28.796] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:29.710] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:36.902] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:37.170] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:49.437] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:49.673] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:49.930] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:40:57.325] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:41:04.837] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:41:23.175] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:41:32.306] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:41:32.651] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:41:32.981] [Execution] [error] [22164]: Failed to compile (this is a problem with your script): :149: Expected identifier when parsing expression, got malformed string
+[2026-02-05 21:46:04.293] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:46:04.415] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully
+[2026-02-05 21:46:29.131] [RBXClient] [trace] [Bread_agent47 (22164)][::CRefresh]: DataModel is being loaded...
+[2026-02-05 21:46:29.262] [RBXClient] [trace] 	[Bread_agent47 (22164)][::CRefresh]: DataModel was loaded successfully

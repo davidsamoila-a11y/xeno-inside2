@@ -1,0 +1,81 @@
+[2026-02-04 20:31:56.366] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-04 20:31:56.367] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-04 20:31:56.367] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-04_20-31-56.log
+[2026-02-04 20:31:56.371] [Xeno] [debug] Client Checker thread: 0xf5dc3fd5d0
+[2026-02-04 20:31:56.371] [Xeno] [debug] Xeno Caching thread: 0xf5dc3fd5c0
+[2026-02-04 20:31:56.371] [Xeno] [debug] WebSockets Cleaner thread: 0xf5dc3fd5b0
+[2026-02-04 20:31:56.371] [Xeno] [debug] Xeno Server thread: 0xf5dc3fd5a0
+[2026-02-04 20:31:56.371] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-04 20:31:56.373] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-04 20:31:56.373] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-04 20:34:05.363] [Xeno] [info] Creating new RBXClient: 13836
+[2026-02-04 20:34:05.364] [RBXClient] [info] [13836]: Initializing...
+[2026-02-04 20:34:05.364] [RBXClient] [info] [13836]: Version: version-bc1e28f4be1f4266
+[2026-02-04 20:34:05.364] [Xeno] [debug] Created RBXClient instance @0x27e844b1000
+[2026-02-04 20:34:05.364] [Xeno] [info] Successfully created RBXClient: 13836
+[2026-02-04 20:34:05.365] [RBXClient] [trace] [13836]: Attempting to retrieve RBXClient data...
+[2026-02-04 20:34:05.541] [RBXClient] [trace] [13836]: Successfully retrieved RBXClient data (Primary)
+[2026-02-04 20:34:05.543] [RBXClient] [debug] [13836]: Fetching DataModel...
+[2026-02-04 20:34:05.604] [RBXClient] [debug] [13836]: 	String: 0x1b720673650
+[2026-02-04 20:34:05.604] [RBXClient] [debug] [13836]: 	RenderView: 0x1b71f3cdc00
+[2026-02-04 20:34:05.605] [RBXClient] [debug] [13836]: DataModel (Ugc): 0x1b71566b638
+[2026-02-04 20:34:05.606] [RBXClient] [debug] [13836]: LocalPlayer: 0x1b71a298080
+[2026-02-04 20:34:05.606] [RBXClient] [debug] [Bread_agent47 (13836)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-04 20:34:05.607] [RBXClient] [trace] [Bread_agent47 (13836)]: Attaching in-game using translation module.
+[2026-02-04 20:34:05.608] [RBXClient] [debug] [Bread_agent47 (13836)]: EventConnection: 0x1b717c50080, SharedString: 0x1b71724d980
+[2026-02-04 20:34:05.806] [RBXClient] [trace] [Bread_agent47 (13836)]: Intercepted translation module @0x1b717c52a80
+[2026-02-04 20:34:06.555] [RBXClient] [warning] [Bread_agent47 (13836)]: Attach is taking longer than expected (Using RefreshRBXWindowV2)... (I hate you Bread_agent47)
+[2026-02-04 20:34:08.811] [RBXClient] [warning] [Bread_agent47 (13836)]: Client was attached but failed to ping the server due to unstable network -- Xeno may not work properly on a slow or unstable network!
+[2026-02-04 20:34:10.728] [RBXClient] [trace] [Bread_agent47 (13836)][::CRefresh]: Client DataModel refreshed
+[2026-02-04 20:34:10.734] [RBXClient] [trace] [Bread_agent47 (13836)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-04 20:36:05.085] [RBXClient] [trace] [Bread_agent47 (13836)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-04 20:36:05.085] [Xeno] [info] Removed RBXClient: 13836
+[2026-02-04 20:36:10.093] [Xeno] [info] Cleaned up '13836' from InitializedClients
+[2026-02-04 20:37:41.624] [Xeno] [info] Creating new RBXClient: 17944
+[2026-02-04 20:37:41.624] [RBXClient] [info] [17944]: Initializing...
+[2026-02-04 20:37:41.624] [RBXClient] [info] [17944]: Version: version-bc1e28f4be1f4266
+[2026-02-04 20:37:41.624] [Xeno] [debug] Created RBXClient instance @0x27e844b1c60
+[2026-02-04 20:37:41.624] [Xeno] [info] Successfully created RBXClient: 17944
+[2026-02-04 20:37:41.625] [RBXClient] [trace] [17944]: Attempting to retrieve RBXClient data...
+[2026-02-04 20:37:41.648] [RBXClient] [trace] [17944]: Successfully retrieved RBXClient data (Primary)
+[2026-02-04 20:37:41.649] [RBXClient] [debug] [17944]: Fetching DataModel...
+[2026-02-04 20:37:41.668] [RBXClient] [debug] [17944]: 	String: 0x2368c4f3650
+[2026-02-04 20:37:41.668] [RBXClient] [debug] [17944]: 	RenderView: 0x2368a4adc00
+[2026-02-04 20:37:41.669] [RBXClient] [debug] [17944]: DataModel (Ugc): 0x236812eb638
+[2026-02-04 20:37:41.669] [RBXClient] [debug] [17944]: LocalPlayer: 0x236840c4080
+[2026-02-04 20:37:41.669] [RBXClient] [debug] [Bread_agent47 (17944)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-04 20:37:41.670] [RBXClient] [trace] [Bread_agent47 (17944)]: Attaching in-game using translation module.
+[2026-02-04 20:37:41.671] [RBXClient] [debug] [Bread_agent47 (17944)]: EventConnection: 0x23682760080, SharedString: 0x23684b2d600
+[2026-02-04 20:37:41.794] [RBXClient] [trace] [Bread_agent47 (17944)]: Intercepted translation module @0x23682762a80
+[2026-02-04 20:37:41.828] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: Client DataModel refreshed
+[2026-02-04 20:37:41.841] [RBXClient] [trace] [Bread_agent47 (17944)]: Attach ping received from client "Bread_agent47", This indicates everything was successful.
+[2026-02-04 20:49:00.170] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:49:00.200] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:49:08.407] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:49:08.530] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:49:44.282] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:49:44.316] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:49:50.850] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:49:50.973] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:49:50.988] [Execution] [trace] [Bread_agent47 (17944)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-04 20:52:24.166] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:52:24.203] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:52:49.610] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:52:49.644] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:53:00.780] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:53:01.907] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:53:01.921] [Execution] [trace] [Bread_agent47 (17944)][::Loadstring]: DataModel was finished loading. Serving loadstring request
+[2026-02-04 20:53:25.492] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:53:25.526] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:53:58.393] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:53:58.516] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 20:55:07.445] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 20:55:07.481] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 21:01:59.080] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 21:01:59.202] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 21:02:23.941] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 21:02:23.974] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 21:13:12.908] [RBXClient] [trace] [Bread_agent47 (17944)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 21:13:12.935] [RBXClient] [trace] 	[Bread_agent47 (17944)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 21:13:26.925] [RBXClient] [trace] [Bread_agent47 (17944)][::~RBXClient]: Client was closed and cleaned up successfully
+[2026-02-04 21:13:26.925] [Xeno] [info] Removed RBXClient: 17944

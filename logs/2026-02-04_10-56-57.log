@@ -1,0 +1,60 @@
+[2026-02-04 10:56:57.430] [Xeno] [trace] Xeno is only maintained by Rizve. If you find any bugs, have any question, or just want to chat email me rizve@xeno.onl or DM me on Discord: .rizve
+[2026-02-04 10:56:57.431] [Xeno] [info] Version: Xeno - v1.3.20
+[2026-02-04 10:56:57.431] [Xeno] [info] Log file: C:\Users\LENOVO\Downloads\Xeno-v1.3.20\Xeno-v1.3.20\logs\2026-02-04_10-56-57.log
+[2026-02-04 10:56:57.437] [Xeno] [debug] Client Checker thread: 0x928dbda10
+[2026-02-04 10:56:57.437] [Xeno] [debug] Xeno Caching thread: 0x928dbda00
+[2026-02-04 10:56:57.437] [Xeno] [debug] WebSockets Cleaner thread: 0x928dbd9f0
+[2026-02-04 10:56:57.438] [Xeno] [debug] Xeno Server thread: 0x928dbd9e0
+[2026-02-04 10:56:57.438] [Cache] [info] Caching file: C:\Users\LENOVO\AppData\Local\Xeno\XENO_CACHE.bin
+[2026-02-04 10:56:57.438] [Cache] [info] Reattaching to cached client PID: 7156
+[2026-02-04 10:56:57.438] [Cache] [info] Loaded existing cache: 1 RBXClients, 1 RBXBytecode, 0 RBXMFlags, 1 RBXClientInfos
+[2026-02-04 10:56:57.438] [Xeno] [info] Creating new RBXClient: 7156
+[2026-02-04 10:56:57.439] [RBXClient] [info] [7156]: Initializing...
+[2026-02-04 10:56:57.439] [RBXClient] [info] [7156]: Version: version-bc1e28f4be1f4266
+[2026-02-04 10:56:57.439] [Xeno] [debug] Created RBXClient instance @0x1520362da40
+[2026-02-04 10:56:57.439] [Xeno] [info] Successfully created RBXClient: 7156
+[2026-02-04 10:56:57.439] [RBXClient] [trace] [7156]: Attempting to retrieve RBXClient data...
+[2026-02-04 10:56:57.439] [Server] [info] Xeno Server is Live on http://localhost:3110
+[2026-02-04 10:56:57.439] [Server] [info] Visit http://localhost:3110 to view any additional information
+[2026-02-04 10:56:57.474] [RBXClient] [trace] [7156]: Successfully retrieved RBXClient data (Primary)
+[2026-02-04 10:56:57.475] [Cache] [trace] [7156]: Loaded EventConnectionSharedString as 0x1fa85dbb140
+[2026-02-04 10:56:57.475] [Cache] [trace] [7156]: Client was previously activated and handled successfully
+[2026-02-04 10:56:57.475] [RBXClient] [info] [7156]: RenderView retrieved from Cache: 0x1fa8cb5dc00
+[2026-02-04 10:56:57.476] [RBXClient] [debug] [7156]: DataModel (Ugc): 0x1fab78a6238
+[2026-02-04 10:56:57.477] [RBXClient] [debug] [7156]: LocalPlayer: 0x1fa9f11d080
+[2026-02-04 10:56:57.477] [RBXClient] [debug] [Bread_agent47 (7156)]: LocalPlayer Name: 'Bread_agent47'
+[2026-02-04 10:56:57.477] [RBXClient] [info] [Bread_agent47 (7156)]: Client was already attached, handling important core functions for the client :D
+[2026-02-04 10:56:57.558] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: Client DataModel refreshed
+[2026-02-04 10:59:00.031] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 10:59:00.181] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 11:00:30.039] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 11:00:30.193] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 11:01:03.105] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 11:01:03.242] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 11:05:31.672] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 11:05:31.833] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 11:15:21.105] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 11:15:21.340] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 11:15:21.971] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:15:29.382] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:15:58.498] [Execution] [error] [7156]: DataModel address is invalid
+[2026-02-04 11:15:59.806] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 11:15:59.964] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
+[2026-02-04 11:16:08.319] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:08.473] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:08.641] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:24.309] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:24.942] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:25.103] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:30.698] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:30.939] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:31.079] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:31.278] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:31.435] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:31.632] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:32.895] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:33.023] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:43.555] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:16:43.684] [Execution] [error] [7156]: Failed to compile (this is a problem with your script): :152: Expected identifier when parsing method name, got '//'
+[2026-02-04 11:24:30.040] [RBXClient] [trace] [Bread_agent47 (7156)][::CRefresh]: DataModel is being loaded...
+[2026-02-04 11:24:30.196] [RBXClient] [trace] 	[Bread_agent47 (7156)][::CRefresh]: DataModel was loaded successfully
